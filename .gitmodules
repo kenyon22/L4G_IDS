@@ -1,0 +1,6 @@
+[submodule "kdd99_feature_extractor"]
+	path = kdd99_feature_extractor
+	url = https://github.com/AI-IDS/kdd99_feature_extractor.git
+[submodule "FPGA_IDS"]
+	path = FPGA_IDS
+	url = https://github.com/dicecco1/fpga_caffe.git
